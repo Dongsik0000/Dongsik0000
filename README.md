@@ -1,6 +1,7 @@
 ## Hi there 👋  
 
-![header](https://capsule-render.vercel.app/api?type=wavy&color=auto&height=300&section=header&text=Dongsik's%20Note&fontSize=60&fontColor=ffffff)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ### About Me  
 - 🔭 I’m currently working on ...  
