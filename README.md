@@ -17,12 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongsik0000&show_icons=true&theme=radical)
 
-## Most Used Languages  
-
-| Language      | Percentage |  
-|---------------|------------|  
-| JavaScript    | ![JavaScript](https://img.shields.io/badge/-77.68%25-yellow) |  
-| HTML          | ![HTML](https://img.shields.io/badge/-10.24%25-red) |  
-| TypeScript    | ![TypeScript](https://img.shields.io/badge/-9.00%25-blue) |  
-| CSS           | ![CSS](https://img.shields.io/badge/-2.62%25-purple) |  
-| GLSL          | ![GLSL](https://img.shields.io/badge/-0.47%25-gray) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
