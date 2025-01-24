@@ -10,5 +10,4 @@
 - ⚡ Fun fact: ...  
 
 ### GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongsik0000&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongsik0000&layout=compact)
+| <a href="https://github.com/Dongsik0000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dongsik0000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dongsik's github stats" /></a> | <a href="https://github.com/Dongsik0000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongsik0000&layout=compact&theme=buefy&hide_border=true" /></a> |
